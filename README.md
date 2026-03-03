@@ -14,7 +14,13 @@ A robotic sensing platform made with affordable off the shelf components. Meant 
 
 ## Educational Value Added
 
-Strengthening PCB prototyping, electrical design, sensor data management, digital signal processing, PID tuning, modular electronic design, and rapid prototyping. 
+- Strengthening PCB prototyping
+- electrical design
+- sensor data management
+- digital signal processing
+- PID tuning
+- modular electronic design
+- rapid prototyping. 
 
 ## Tasks
 
@@ -35,23 +41,23 @@ The goal is for this rover to be affordable and readily deployable. Documentatio
 
 ## BOM + Component Cost
 
-2 x 12 V dc motors ($30)
-2 x driving wheels + 1 caster wheel ($10)
-4 x 18650 cell ($10)
-integrated BMS PCB ($10)
-network enabled mcu with network connectivity (50$)
-initial prototype can be made from rough materials / scrap polymer ($0)
-final prototype can be 3d printed with PLA and modeled in fusion 360 ($10)
+- 2 x 12 V dc motors ($30)
+- 2 x driving wheels + 1 caster wheel ($10)
+- 4 x 18650 cell ($10)
+- integrated BMS PCB ($10)
+- network enabled mcu with network connectivity (50$)
+- initial prototype can be made from rough materials / scrap polymer ($0)
+- final prototype can be 3d printed with PLA and modeled in fusion 360 ($10)
 
 total estimate: $100
 
 ## Timeline
 
-rough prototype: 3/9/26
-initial testing day: 4/15/26
-2nd iteration: 3/18/26
-validate final prototype: 4/9/26
-final deliverable demo day 4/22/26
+- rough prototype: 3/9/26
+- initial testing day: 4/15/26
+- 2nd iteration: 3/18/26
+- validate final prototype: 4/9/26
+- final deliverable demo day 4/22/26
 
 ## Useful Links
 
@@ -60,4 +66,5 @@ https://dronebotworkshop.com/esp32cam-robot-car/
 ## Log
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+
 
