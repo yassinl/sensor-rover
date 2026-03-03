@@ -1,49 +1,63 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Yassin Lahrime, CpE 2026
+yassinl@vt.edu
 
 ## Mentor
-MENTOR NAME HERE
+Phillip Bozay
 
 ## Current Status
 IN PROGRESS
 
 ## Project Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+A robotic sensing platform made with affordable off the shelf components. Meant to exploration, disaster relief, telemetry, and modularity. 
 
 ## Educational Value Added
 
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+Strengthening PCB prototyping, electrical design, sensor data management, digital signal processing, PID tuning, modular electronic design, and rapid prototyping. 
 
 ## Tasks
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
-
+- scoping and planning phase
+- source parts required for project. ideally locally in the interest of keeping affordable and shipping quickly. 
+- rough prototyping
+- iterate on design
+- testing and validation
+- project finalization
+- demo final prototype
 ## Design Decisions
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
-
-## Design Misc
-
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+The goal is for this rover to be affordable and readily deployable. Documentation is also a high priority for the sake of demonstrating educational value added and reproducibility in future automation and robotics efforts. 
 
 ## Steps for Documenting Your Design Process
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+- keep a digital engineering notebook for datasheets, design notes, and testing data.
 
 ## BOM + Component Cost
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+2 x 12 V dc motors ($30)
+2 x driving wheels + 1 caster wheel ($10)
+4 x 18650 cell ($10)
+integrated BMS PCB ($10)
+network enabled mcu with network connectivity (50$)
+initial prototype can be made from rough materials / scrap polymer ($0)
+final prototype can be 3d printed with PLA and modeled in fusion 360 ($10)
+
+total estimate: $100
 
 ## Timeline
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+rough prototype: 3/9/26
+initial testing day: 4/15/26
+2nd iteration: 3/18/26
+validate final prototype: 4/9/26
+final deliverable demo day 4/22/26
 
 ## Useful Links
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+https://dronebotworkshop.com/esp32cam-robot-car/
 
 ## Log
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+
