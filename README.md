@@ -10,7 +10,7 @@ IN PROGRESS
 
 ## Project Overview
 
-A robotic sensing platform made with affordable off the shelf components. Meant to exploration, disaster relief, telemetry, and modularity. 
+A robotic sensing platform made with affordable off the shelf components. Meant for exploration, disaster relief, telemetry, and modularity. 
 
 ## Educational Value Added
 
@@ -66,5 +66,6 @@ https://dronebotworkshop.com/esp32cam-robot-car/
 ## Log
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+
 
 
